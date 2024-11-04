@@ -1,0 +1,10 @@
+.flex-container {
+    display: flex;
+    justify-content: end;
+    
+}
+
+.separacion {
+
+    padding-left: 10px;
+}
